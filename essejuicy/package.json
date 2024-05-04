@@ -1,6 +1,6 @@
 {
-  "name": "@kujian/essejuicy",
-  "version": "1.1.5",
+  "name": "essejuicy",
+  "version": "1.1.7",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -30,7 +30,7 @@
   },
   "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
   "main": "postcss.config.js",
-  "author": "",
+  "author": "kujian95",
   "license": "ISC",
   "repository": {
     "type": "git",
@@ -39,5 +39,9 @@
   "bugs": {
     "url": "https://github.com/flanelafafa/essejuicy/issues"
   },
-  "homepage": "https://github.com/flanelafafa/essejuicy#readme"
+  "homepage": "https://github.com/flanelafafa/essejuicy#readme",
+  "keywords": [
+    "tea",
+    "essejuicy"
+  ]
 }
